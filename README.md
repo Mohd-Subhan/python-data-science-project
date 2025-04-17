@@ -1,9 +1,9 @@
 # python-data-science-project
 A Python data analysis project that explores age distribution using pandas, matplotlib, seaborn, and numpy. Includes detailed visualizations and insights with a supporting report
 
-# 📊 Age Distribution - Python Data Analysis Project
+#  Python Data Analysis Project
 
-This project analyzes age distribution using Python’s data science libraries. It uses real or simulated data to explore and visualize how age is distributed across a dataset.
+This project analyzes using Python’s data science libraries. It uses real or simulated data to explore and visualize how age is distributed across a dataset.
 
 ## 🧠 Project Objective
 
